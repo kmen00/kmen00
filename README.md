@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kmen00
 - 👀 I’m interested in everything tech
-- 🌱 I’m currently learning Java && Python 
+- 🌱 I’m currently learning Kotlin & Python 
 - 💞️ I’m looking to collaborate on any available projects 
 - 📫 How to reach me text me 
 
